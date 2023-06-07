@@ -6,7 +6,7 @@ import heroIllustration from "./assets//hero.png";
 
 const HeroSection = () => {
     return (
-        <section className="mt-[calc(100px+2rem)] lg:mt-[calc(140px+2rem)] 2xl:mt-[calc(130px+2rem)] md:flex md:w-full px-[4%] md:px-[40px] lg:px-[100px] lg:gap-[40px] xl:justify-center xl:gap-[60px] 2xl:gap-[80px] h-[calc(100vh-96px)]">
+        <section className="mt-[calc(100px+2rem)] lg:mt-[calc(140px+2rem)] 2xl:mt-[calc(130px+2rem)] md:flex md:w-full px-[4%] md:px-[40px] lg:px-[100px] lg:gap-[40px] md:justify-center xl:justify-center xl:gap-[60px] 2xl:gap-[80px] h-[calc(100vh-96px)]">
             <div className="w-full  flex flex-col gap-[24px]  max-w-[440px] xl:max-w-[540px] sm:ml-[40px] md:ml-0 xl:gap-[24px] 2xl:gap-[36px]">
                 <div>
                     <h2 className="text-[30px] text-left font-semibold lg:text-[36px] xl:text-[48px] 2xl:text-[64px] leading-[120%] ">
