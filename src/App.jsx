@@ -13,7 +13,7 @@ function App() {
         <div className="w-full">
             <Header />
             <HeroSection />
-            <div className="h-[700px] w-full"></div>
+            {/* <div className="h-[700px] w-full"></div> */}
         </div>
     );
 }
