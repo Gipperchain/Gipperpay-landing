@@ -5,7 +5,7 @@ import { FaTwitterSquare } from "react-icons/fa";
 
 const HeroSection = () => {
     return (
-        <section className="w-full px-[4%] flex flex-col gap-[24px] mt-[calc(100px+2rem)] max-w-[420px]">
+        <section className="w-full px-[4%] flex flex-col gap-[24px] mt-[calc(100px+2rem)] max-w-[440px]">
             <div>
                 <h2 className="text-3xl text-left font-semibold">
                     Blockchains for regular people built for mass adoption
